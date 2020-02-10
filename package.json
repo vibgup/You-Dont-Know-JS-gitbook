@@ -1,0 +1,23 @@
+{
+  "name": "you-dont-know-js-gitbook",
+  "version": "2.0.0",
+  "description": "This is a series of books diving deep into the core mechanisms of the JavaScript language. The first edition of the series is now complete.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "gitbook serve",
+    "build": "gitbook build",
+    "epub": "gitbook epub ./ ./ydkjs.epub",
+    "mobi": "gitbook mobi ./ ./ydkjs.mobi",
+    "pdf": "gitbook pdf ./ ./ydkjs.pdf"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@vibgup.github.com:vibgup/You-Dont-Know-JS-gitbook.git"
+  },
+  "author": "Vibhav Gupta, Kyle Simpson",
+  "license": "ISC",
+  "dependencies": {
+    "gitbook-cli": "2.3.2"
+  }
+}
