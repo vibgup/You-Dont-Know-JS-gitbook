@@ -9,7 +9,9 @@
     "build": "gitbook build",
     "epub": "gitbook epub ./ ./ydkjsy.epub",
     "mobi": "gitbook mobi ./ ./ydkjsy.mobi",
-    "pdf": "gitbook pdf ./ ./ydkjsy.pdf"
+    "pdf": "gitbook pdf ./ ./ydkjsy.pdf",
+    "mobi_chpt": "gitbook mobi",
+    "pdf_chpt": "gitbook pdf"
   },
   "repository": {
     "type": "git",

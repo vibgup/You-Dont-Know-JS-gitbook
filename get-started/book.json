@@ -1,0 +1,7 @@
+{
+  "title": "You Don't Know JS Yet: Get Started - 2nd Edition",
+  "description": "This is a series of books diving deep into the core mechanisms of the JavaScript language",
+  "structure": {
+    "readme": "toc.md"
+  }
+}
